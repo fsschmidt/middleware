@@ -8,3 +8,6 @@ export JAVA_HOME=/opt/jdk7
 export JRE_HOME=/opt/jdk7/jre
 export PATH=$PATH:/opt/jdk7/bin
 
+http://tecadmin.net/steps-to-install-tomcat-server-on-centos-rhel/
+http://tecadmin.net/steps-to-install-java-on-centos-5-6-or-rhel-5-6/
+

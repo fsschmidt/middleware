@@ -1,0 +1,5 @@
+alternatives --install /usr/bin/java java /opt/jdk7/bin/java 2
+alternatives --install /usr/bin/jar jar /opt/jdk7/bin/jar 2
+alternatives --install /usr/bin/javac javac /opt/jdk7/bin/javac 2
+alternatives --set jar /opt/jdk7/bin/jar
+alternatives --set javac /opt/jdk7/bin/javac 

@@ -3,3 +3,8 @@ alternatives --install /usr/bin/jar jar /opt/jdk7/bin/jar 2
 alternatives --install /usr/bin/javac javac /opt/jdk7/bin/javac 2
 alternatives --set jar /opt/jdk7/bin/jar
 alternatives --set javac /opt/jdk7/bin/javac 
+
+export JAVA_HOME=/opt/jdk7
+export JRE_HOME=/opt/jdk7/jre
+export PATH=$PATH:/opt/jdk7/bin
+

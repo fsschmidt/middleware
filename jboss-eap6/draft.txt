@@ -6,3 +6,5 @@ JBOSS_USER=jboss
 STARTUP_WAIT=30
 SHUTDOWN_WAIT=30
 JBOSS_CONSOLE_LOG=/var/log/wildfly/console.log
+
+/opt/jboss6/bin/init.d

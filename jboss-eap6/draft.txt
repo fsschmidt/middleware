@@ -1,0 +1,8 @@
+/etc/jboss-as/jboss-as.conf
+
+JAVA_HOME=/opt/jdk7
+JBOSS_HOME=/opt/jboss6
+JBOSS_USER=jboss
+STARTUP_WAIT=30
+SHUTDOWN_WAIT=30
+JBOSS_CONSOLE_LOG=/var/log/wildfly/console.log
